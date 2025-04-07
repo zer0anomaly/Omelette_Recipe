@@ -1,0 +1,106 @@
+.box {
+  width: 650px;
+  height: 1610px;
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 10px;
+  font-size: 16px;
+  padding: 40px;
+  margin: auto;
+}
+.manone {
+	padding: 10px;
+}
+.mantwo {
+	padding: 10px;
+	padding-left: 280px;
+	color: hsl(14, 45%, 36%);
+}
+.manthree {
+	padding: 10px;
+}
+.manfour {
+	padding: 10px;
+	padding-left: 267px;
+	color: hsl(14, 45%, 36%);
+
+}
+.manfive {
+	padding: 10px;
+}
+.mansix {
+	padding: 10px;
+	padding-left: 300px;
+	color: hsl(14, 45%, 36%);
+
+}
+.manseven {
+	padding: 10px;
+}
+.maneight {
+	padding: 10px;
+	padding-left: 260px;
+	color: hsl(14, 45%, 36%);
+}
+.step_one {
+	padding: 5px;
+	padding-left: 20px;
+}
+.step_two {
+padding: 5px;
+padding-left: 20px;
+}
+.step_three {
+	padding: 5px;
+	padding-left: 20px;
+}
+.newclass {
+	width: 650px;
+	height: 170px;
+	background-color: hsl(330, 100%, 98%);
+	border-radius: 20px;
+
+}
+.number_4 {
+	border-width: 2px;
+	color: hsl(332, 51%, 32%);
+	padding-left: 30px;
+	padding: 25px;
+	margin-bottom: -30px;
+}
+
+.number_1 {
+    font-family: 'Young Serif', serif;
+}
+.number_5 {
+	font-family: 'Young Serif', serif;
+	color: hsl(14, 45%, 36%);
+}
+.number_6 {
+	font-family: 'Young Serif', serif;
+	color: hsl(14, 45%, 36%);
+}
+.number_7 {
+	font-family: 'Young Serif', serif;
+	color: hsl(14, 45%, 36%);
+}
+.firstimage {
+border-radius: 15px;
+}
+body {
+	background-color: hsl(30, 54%, 90%);
+}
+.oneone {
+	padding: 5px;
+}
+.twotwo {
+	padding: 5px;
+}
+.three_three {
+	padding: 5px;
+}
+.fourfour {
+	padding: 5px;
+}
+.fivefive {
+	padding: 5px;
+}
